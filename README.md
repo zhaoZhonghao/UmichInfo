@@ -1,5 +1,6 @@
 # UmichInfo
-Useful things for students, presented in form of **MarkDown** [NO CODE! JUST A NOTEBOOK]
+---
+Useful info for students, presented in form of **MarkDown** 
 ---
 # CONTENT
 + 住房
